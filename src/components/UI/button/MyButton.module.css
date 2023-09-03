@@ -1,0 +1,15 @@
+.btn{
+    background: rgba(255, 222, 64, 1);
+    color: rgba(33, 32, 31, 1);
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 36px;
+    padding: 24px 48px;
+    border: none;
+    box-shadow: 0px 4px 98px 0px rgba(255, 222, 64, 0.59);
+    cursor: pointer;
+    width: fit-content;
+}
