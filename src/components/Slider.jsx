@@ -7,12 +7,13 @@ import feature1 from '../img/feature_pic_1.png'
 import feature2 from '../img/feature_pic_2.png'
 import feature3 from '../img/feature_pic_3.png'
 import feature4 from '../img/feature_pic_4.png'
-import MyButton from './UI/button/MyButton';
+import addition from '../img/add_2.png'
 
 export default function Slider() {
 
   return (
     <div className='slider'>
+        <img className='slider_addition' src={addition} alt="pic" />
         <Swiper
             grabCursor={true}
             pagination={{ el: '.swiper-pagination', clickable: true }}

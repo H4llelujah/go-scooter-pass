@@ -379,6 +379,10 @@ body {
 
 /* slider */
 
+.slider{
+  position: relative;
+}
+
 .slider-controler{
   margin-top: 24px;
   display: flex;
@@ -398,6 +402,14 @@ body {
 .swiper-button-disabled{
   opacity: 0.5;
   cursor: default;
+}
+
+.slider_addition{
+  position: absolute;
+  z-index: 10;
+  top: -22px;
+  right: 2px;
+  width: 20%;
 }
 
 /* media */

@@ -5,7 +5,6 @@ import Promo from './components/Promo';
 import Feature from './components/Feature';
 import Purchases from './components/Purchases';
 import Footer from './components/Footer';
-import Slider from './components/Slider';
 
 function App() {
 
@@ -23,19 +22,13 @@ function App() {
     };
   }, []);
 
-  const show = () => {
-    console.log(windowWidth)
-  }
-
   return (
     <div className="App">
       <OpenGraph></OpenGraph>
       <Promo></Promo>
       <Feature windowWidth = {windowWidth}></Feature>
       <Purchases></Purchases>
-      <Footer></Footer>
-      {/* <Slider></Slider> */}
-      
+      <Footer></Footer>   
     </div>
   );
 }
