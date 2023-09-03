@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/H4llelujah/go-scooter-pass/static/css/main.ebc5c4a4.css",
+    "main.js": "/H4llelujah/go-scooter-pass/static/js/main.aa31f279.js",
+    "static/media/feature_pic_1.png": "/H4llelujah/go-scooter-pass/static/media/feature_pic_1.4ccffd8d57c18e665a06.png",
+    "static/media/feature_pic_4.png": "/H4llelujah/go-scooter-pass/static/media/feature_pic_4.7124bd62baa7bf385d38.png",
+    "static/media/feature_pic_2.png": "/H4llelujah/go-scooter-pass/static/media/feature_pic_2.2ed6e18e7b044ab417f6.png",
+    "static/media/feature_pic_3.png": "/H4llelujah/go-scooter-pass/static/media/feature_pic_3.3f7ad53d25d6aacdb174.png",
+    "static/media/promo_pic.png": "/H4llelujah/go-scooter-pass/static/media/promo_pic.4ddd37c7c5b23da41b8d.png",
+    "static/media/pic1.png": "/H4llelujah/go-scooter-pass/static/media/pic1.bebba731260fbb08a3d4.png",
+    "static/media/pic2.png": "/H4llelujah/go-scooter-pass/static/media/pic2.3ab24a369f3e695010f0.png",
+    "static/media/add_4.png": "/H4llelujah/go-scooter-pass/static/media/add_4.04e538df047bbe95519c.png",
+    "static/media/add_1.png": "/H4llelujah/go-scooter-pass/static/media/add_1.b2cbbad6a9b7a316f2ae.png",
+    "static/media/add_2.png": "/H4llelujah/go-scooter-pass/static/media/add_2.e2c482836e72470e5180.png",
+    "static/media/Promo_pic_2.svg": "/H4llelujah/go-scooter-pass/static/media/Promo_pic_2.fb63eb61f1c2064ce7c7379981d3dcfc.svg",
+    "static/media/Promo_pic_1.svg": "/H4llelujah/go-scooter-pass/static/media/Promo_pic_1.3a18368ede1669509db0f80406a09408.svg",
+    "static/media/Promo_pic_3.svg": "/H4llelujah/go-scooter-pass/static/media/Promo_pic_3.d6b4aacb27d4faedc03f7450521e0443.svg",
+    "static/media/Promo_pic_4.svg": "/H4llelujah/go-scooter-pass/static/media/Promo_pic_4.3281baea468af06ccfef0af561484be0.svg",
+    "index.html": "/H4llelujah/go-scooter-pass/index.html",
+    "main.ebc5c4a4.css.map": "/H4llelujah/go-scooter-pass/static/css/main.ebc5c4a4.css.map",
+    "main.aa31f279.js.map": "/H4llelujah/go-scooter-pass/static/js/main.aa31f279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc5c4a4.css",
+    "static/js/main.aa31f279.js"
+  ]
+}
