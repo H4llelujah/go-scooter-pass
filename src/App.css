@@ -656,5 +656,9 @@ body {
     width: 48px;
     height: 48px;
   }
+  .btn{
+    padding-top: 18px !important;
+    padding-bottom: 18px !important;
+  }
 
 }
