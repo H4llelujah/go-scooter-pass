@@ -1,10 +1,11 @@
 import './App.css';
 import { useState, useEffect } from 'react';
-import OpenGraph from './components/OpenGraph';
 import Promo from './components/Promo';
 import Feature from './components/Feature';
 import Purchases from './components/Purchases';
 import Footer from './components/Footer';
+import Logo from './components/Logo';
+
 
 function App() {
 
@@ -24,7 +25,7 @@ function App() {
 
   return (
     <div className="App">
-      <OpenGraph></OpenGraph>
+      <Logo></Logo>
       <Promo></Promo>
       <Feature windowWidth = {windowWidth}></Feature>
       <Purchases></Purchases>

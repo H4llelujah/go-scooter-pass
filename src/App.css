@@ -37,17 +37,17 @@ body {
   color: #21201F
 }
 
-.OpenGraph{
+.Header{
   display: flex;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
   margin-bottom: 108px;
 }
 
-.openGraph-background{
+.Header-background{
   position: relative;
 }
 
-.openGraph-background::before {
+.Header-background::before {
   content: "";
   position: absolute;
   top: 0;
@@ -60,7 +60,7 @@ body {
   z-index: -1;
 }
 
-.OpenGraph_wrapper{
+.Header_wrapper{
   display: flex;
   width: 100%;
   justify-content: center;
@@ -510,7 +510,7 @@ body {
 
 
 @media (max-width: 900px) {
-    .OpenGraph_wrapper{
+    .Header_wrapper{
       flex-direction: column;
       align-items: center;
       gap: 30px;

@@ -3,10 +3,10 @@ import promo from '../img/promo_pic.png'
 import YandexGo from '../img/YandexGo.png'
 import MyButton from './UI/button/MyButton'
 
-export default function OpenGraph() {
+export default function Logo() {
   return (
-    <div className='OpenGraph openGraph-background'>
-      <div className='OpenGraph_wrapper wrapper'>
+    <div className='Header Header-background'>
+      <div className='Header_wrapper wrapper'>
       <div className='left-block'>
             <div className='left-block-promo'><img src={YandexGo} alt='YandexGo'></img></div>
             <div className='left-block-header'>Вступайте в&nbsp;клуб Самокатов</div>
