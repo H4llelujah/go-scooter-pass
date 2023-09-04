@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/go-scooter-pass/static/css/main.f96708fe.css",
-    "main.js": "/go-scooter-pass/static/js/main.99e3c7cc.js",
+    "main.js": "/go-scooter-pass/static/js/main.166af530.js",
     "static/media/feature_pic_1.png": "/go-scooter-pass/static/media/feature_pic_1.4ccffd8d57c18e665a06.png",
     "static/media/feature_pic_4.png": "/go-scooter-pass/static/media/feature_pic_4.7124bd62baa7bf385d38.png",
     "static/media/feature_pic_2.png": "/go-scooter-pass/static/media/feature_pic_2.2ed6e18e7b044ab417f6.png",
     "static/media/feature_pic_3.png": "/go-scooter-pass/static/media/feature_pic_3.3f7ad53d25d6aacdb174.png",
+    "static/media/OpenGraph.png": "/go-scooter-pass/static/media/OpenGraph.d2ed2d33b79221ff6d2a.png",
     "static/media/promo_pic.png": "/go-scooter-pass/static/media/promo_pic.4ddd37c7c5b23da41b8d.png",
     "static/media/pic1.png": "/go-scooter-pass/static/media/pic1.bebba731260fbb08a3d4.png",
     "static/media/pic2.png": "/go-scooter-pass/static/media/pic2.3ab24a369f3e695010f0.png",
@@ -18,10 +19,10 @@
     "static/media/Promo_pic_4.svg": "/go-scooter-pass/static/media/Promo_pic_4.3281baea468af06ccfef0af561484be0.svg",
     "index.html": "/go-scooter-pass/index.html",
     "main.f96708fe.css.map": "/go-scooter-pass/static/css/main.f96708fe.css.map",
-    "main.99e3c7cc.js.map": "/go-scooter-pass/static/js/main.99e3c7cc.js.map"
+    "main.166af530.js.map": "/go-scooter-pass/static/js/main.166af530.js.map"
   },
   "entrypoints": [
     "static/css/main.f96708fe.css",
-    "static/js/main.99e3c7cc.js"
+    "static/js/main.166af530.js"
   ]
 }
