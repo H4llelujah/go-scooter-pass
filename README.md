@@ -1,6 +1,4 @@
-# Gh-page: 
-
-https://h4llelujah.github.io/go-scooter-pass/
+# Gh-page: https://h4llelujah.github.io/go-scooter-pass/
 
 # Getting Started with Create React App
 
