@@ -592,6 +592,11 @@ body {
     .feature-header{
       width: auto;
     }
+
+    .feature-preview-img{
+      width: inherit;
+      height: auto;
+    }
     .feature-text{
       width: auto;
     }
