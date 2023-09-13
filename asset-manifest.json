@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/go-scooter-pass/static/css/main.61dd4a24.css",
+    "main.css": "/go-scooter-pass/static/css/main.3cb77d7d.css",
     "main.js": "/go-scooter-pass/static/js/main.99e3c7cc.js",
     "static/media/feature_pic_1.png": "/go-scooter-pass/static/media/feature_pic_1.4ccffd8d57c18e665a06.png",
     "static/media/feature_pic_4.png": "/go-scooter-pass/static/media/feature_pic_4.7124bd62baa7bf385d38.png",
@@ -17,11 +17,11 @@
     "static/media/Promo_pic_3.svg": "/go-scooter-pass/static/media/Promo_pic_3.d6b4aacb27d4faedc03f7450521e0443.svg",
     "static/media/Promo_pic_4.svg": "/go-scooter-pass/static/media/Promo_pic_4.3281baea468af06ccfef0af561484be0.svg",
     "index.html": "/go-scooter-pass/index.html",
-    "main.61dd4a24.css.map": "/go-scooter-pass/static/css/main.61dd4a24.css.map",
+    "main.3cb77d7d.css.map": "/go-scooter-pass/static/css/main.3cb77d7d.css.map",
     "main.99e3c7cc.js.map": "/go-scooter-pass/static/js/main.99e3c7cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.61dd4a24.css",
+    "static/css/main.3cb77d7d.css",
     "static/js/main.99e3c7cc.js"
   ]
 }
